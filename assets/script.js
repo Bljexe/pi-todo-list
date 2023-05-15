@@ -145,3 +145,7 @@ window.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
+alert(
+  "Projeto em Desenvolvimento!\nRealizado 50% do projeto! Interação e criação de tarefas já estão funcionais."
+);
